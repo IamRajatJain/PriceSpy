@@ -5,3 +5,5 @@ axios is used to make API calls
 cheerio is used to parse HTML
 .local => so as to not to push to git
 using vercel to deploy
+git init
+git add .
