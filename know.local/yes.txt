@@ -1,0 +1,7 @@
+p tag is for paragraph
+span is for "o wrap sections of text for styling purposes or to add attributes to a section of text without creating a new line of content"
+We will be using bright data website for data scrapping -> web unlocker data solutions
+axios is used to make API calls
+cheerio is used to parse HTML
+.local => so as to not to push to git
+using vercel to deploy
